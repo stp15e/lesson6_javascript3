@@ -1,12 +1,6 @@
 /* Modernizr 2.6.2 (Custom Build) | MIT & BSD
  * Build: http://modernizr.com/download/#-fontface-csstransforms-shiv-cssclasses-teststyles-testprop-testallprops-domprefixes-load
  */
-/*    
-    Program Name:  Photo Gallery Application
-    Author: Stephen Phillips
-    Date: July 6th, 2016  
-    Filename: photos.js
- */
 ;
 
 
